@@ -100,11 +100,11 @@ if __name__ == '__main__':
   # print(detect("SPS Ausgang ist kaput und m\u00fcst umprogramiert werden.\n"))
 
   # check_null(service_joborders)
-  # check_total(service_joborders)
+  check_total(service_joborders)
   # check_joborders(mergeTable)
 
   # merge = merge_table(actionscopes, service_joborders)
   # write_json(merge, 'analyse\\merge_table.json')
 
-  info_problem = problem_table(mergeTable)
-  write_json(info_problem, 'analyse\\problem_table.json')
+  # info_problem = problem_table(mergeTable)
+  # write_json(info_problem, 'analyse\\problem_table.json')
