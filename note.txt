@@ -1,12 +1,4 @@
 - actionscopes have one service_joborders relation
-- actionscopes have joborders but no joborders table code:
-  - C0000000358
-  - C0000001430
-  - C0000005475
-  - C0000008053
-  - C0000009184
-  - C0000014892
-  - C0000014897
-  - C0000016829
-  - C0000019646
+- actionscopes have joborders but no joborders table (def check_joborders: exits)
 - langdetect
+- to merge all problem
