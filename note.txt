@@ -2,3 +2,7 @@
 - actionscopes have joborders but no joborders table (def check_joborders: exits)
 - langdetect
 - to merge all problem
+- joborders kan ook geen conectie hebben met de actionscopes
+- close_case als een case open of dicht is
+- internal memo is voor de developers zelf
+
